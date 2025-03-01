@@ -1,4 +1,4 @@
-const {nanoid} = reuire('nanoid');
+const {nanoid} = require('nanoid');
 const URL = require('../models/url')
 
 
